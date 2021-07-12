@@ -22,9 +22,7 @@ For example, for a data gathering task of products, the web scraping script will
 
 The news article scrapers are a bit different. The purpose of this data gathering technique is to collect a single data point, and that is a huge block of text. 
 
-This block of text is the news article body. The headline and date published may also be collected, but usually, it is the text which is used for various purposes. 
-
-One such use case is Elasticsearch. Elasticsearch is a search and analytics tool and works well with unstructured data, so the article text can be consumed by Elasticsearch. Another use case is machine learning and data science. In this case, text mining can be used to process the text of the article and get the required information. 
+This block of text is the news article body. The headline and date published may also be collected, but usually, it is the text which is used for various purposes. One such use case is Elasticsearch. Elasticsearch is a search and analytics tool and works well with unstructured data, so the article text can be consumed by Elasticsearch. 
 
 This article will discuss various ways of web scraping news articles using Python and JavaScript. Even though no prior understanding of web scraping is expected, [this article can help you learn web scraping using Python](https://github.com/oxylabs/Python-Web-Scraping-Tutorial).
 
