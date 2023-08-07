@@ -1,6 +1,10 @@
 # News Article Scraper
 [<img src="https://img.shields.io/static/v1?label=&message=Python&color=brightgreen" />](https://github.com/topics/python) [<img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=blue" />](https://github.com/topics/javascript) [<img src="https://img.shields.io/static/v1?label=&message=web%20scraping&color=important" />](https://github.com/topics/web-scraping) [<img src="https://img.shields.io/static/v1?label=&message=news%20article%20scraping&color=blueviolet" />](https://github.com/topics/news-article-scraping)
 
+[![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
+
+
+
 ## Table of Contents
 
 - [The Overall Approach](#the-overall-approach)
